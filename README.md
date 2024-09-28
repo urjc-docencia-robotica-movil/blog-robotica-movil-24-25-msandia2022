@@ -1,1 +1,3 @@
-# P1 - Vacuum Cleaner
+# Blog URL
+Check out my blog here:
+https://msandia2022.github.io/
